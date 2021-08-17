@@ -9,7 +9,7 @@ import linecache
 
 from threading import Thread
 
-channel_url = ""
+channel_url = https://www.twitch.tv/saucyxt?sr=a
 proxies_file = "Proxies_txt/good_proxy.txt"
 processes = []
 max_nb_of_threads = 1000
